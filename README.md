@@ -46,5 +46,4 @@ Python is used to simulate voltage and current inputs, calculate electrical para
 - Embedded monitoring systems
 
 
-Sandhya
 
